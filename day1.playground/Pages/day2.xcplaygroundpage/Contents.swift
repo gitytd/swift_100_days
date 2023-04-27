@@ -2,6 +2,10 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+let yahya = "messi"
+let yusuf = "mbaappe"
+let zek = "maradona"
 
-//: [Next](@next)
+let goats = [yahya,yusuf,zek]
+
+print(goats[1])

@@ -32,8 +32,5 @@ var str3 = "Your score was \(score)"
 var result = "your results are here: \(str3)"
 print(result)
 
-//constant and var difference
-
-//type annotations
-
+Ayrıca, gün boyunca öğrendiğim bir diğer önemli konu da "constant" ve "var" arasındaki farktı. "constant" ile oluşturulan değişkenlerin değerleri değiştirilemezken, "var" ile oluşturulan değişkenlerin değerleri değiştirilebilir.
 
